@@ -18,7 +18,6 @@ task1.py: A program which helps us to calculate the factorial of the number usin
 
 
 
-
 task2.py: A simple program that uses math module for calculations
 
 -->in this task-2 i have imported the predefined math modules for easier calculations
