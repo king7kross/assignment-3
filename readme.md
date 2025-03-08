@@ -3,7 +3,9 @@ This project contains two Python files:
 task1.py: A program which helps us to calculate the factorial of the number using a function
 
 -->In this task-1 i have taken an integer input from the user.
+
 -->i have then created a user defined function with name factorial() in which i am passing the argument same as the calling function.
+
 -->i have also created a local variable fact=1
 -->through the if-else conditional statements i have made sure that if someone enters 0 as a value the return statement always gives result as 1.
 -->then using for loop i have calculated the factorial of the given input and using return statement it prints the value iterated in for loop
